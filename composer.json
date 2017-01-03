@@ -1,0 +1,15 @@
+{
+    "name": "mattferris/component",
+    "description": "An application component interface",
+    "license": "BSD-2-Clause",
+    "autoload": {
+        "psr-4": {"MattFerris\\Component\\": "src/"}
+    },
+    "authors": [
+        {
+            "name": "Matt Ferris",
+            "email": "matt@bueller.ca"
+        }
+    ],
+    "require": {},
+}
