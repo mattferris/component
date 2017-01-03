@@ -1,7 +1,7 @@
 <?php
 
 /**
- * component - A PHP library for managing application components
+ * component - An application component interface
  * www.bueller.ca/component
  *
  * ComponentInterface.php
