@@ -19,7 +19,7 @@ interface ComponentInterface
     /**
      * Perform any component initialization tasks.
      */
-    public function init();
+    public function init(array $providers = []);
 
     /**
      * Load the component.
